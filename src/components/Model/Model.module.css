@@ -1,0 +1,63 @@
+.modalWrapper {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: rgba(189,189,189,0.9);
+    
+}
+
+.modalContainer {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 30rem;
+    background-color: white;
+    padding: 1rem;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 1.5rem;
+    height: 1.5rem;
+    display: inline-block;
+    margin: 0.3rem;
+    
+}
+
+.borderColor {
+    border: 3px solid #000;
+}
+
+.purple {
+    background-color: #B38BFA;
+    
+}
+
+.brown {
+    background-color: #F19576;
+}
+
+.darkBlue {
+    background-color: #0047FF;
+}
+
+.blue {
+    background-color: #6691FF;
+}
+
+.skyBlue {
+    background-color: #43E6FC;
+}
+
+.pink {
+    background-color: #FF79F2;
+}
+
+.block {
+    display: sticky;
+    right: 0;
+    
+}

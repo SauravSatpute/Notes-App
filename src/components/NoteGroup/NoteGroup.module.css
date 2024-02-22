@@ -1,0 +1,42 @@
+.flex {
+    display: flex;
+    justify-content:flex-start;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.itemCenter {
+    align-items: center;
+}
+
+.noteHeading {
+    
+    background-color: pink;
+    height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.noteText {
+    font-weight: 700;
+}
+
+.flexCircle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap {
+    margin-top: 2rem;
+}
+
+.bgGray {
+    background-color: #2f2f2f7a;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+

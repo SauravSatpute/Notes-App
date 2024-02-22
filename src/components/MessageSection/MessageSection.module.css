@@ -1,0 +1,32 @@
+.width100 {
+    width:95%;
+}
+
+.height4rem {
+    height: 4rem;
+}
+
+.height60vh {
+    height: 60vh;
+}
+
+.width90 {
+    width:95%;
+}
+
+.setPadding {
+    padding: 1rem;
+}
+
+.textAreaSection {
+    text-align: center;
+    padding: 1rem;
+}
+
+/* .height10rem {
+    height: 10rem;
+} */
+
+.textAreaSection, .textAreaSection::placeholder {
+    font-size: 3rem ;
+}

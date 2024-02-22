@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.alignCenter {
+    align-items: center;
+}
+
+.justifyCenter {
+    justify-content: center;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.textBold {
+    font-weight: bold;
+}

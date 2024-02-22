@@ -1,0 +1,15 @@
+.container {
+    
+    overflow-y: scroll;
+    height: 80vh;
+    margin: 40px;
+}
+
+.container::webkit-scrollbar {
+    display: none;
+}
+
+.container {
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+  }

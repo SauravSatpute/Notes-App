@@ -1,0 +1,41 @@
+.width30 {
+    width: 25vw;
+}
+
+.width70 {
+    width:75vw;
+}
+
+.height100 {
+    height: 100vh;
+}
+
+.backgroundGray {
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.backgroundNone {
+    background-color: transparent;
+    opacity: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.itemCenter {
+    align-items: center;
+}
+
+.justifySpaceBetween {
+    justify-content: space-between;
+}
+
+.width100 {
+    width: 100vw;
+}
+
+.justifyCenter {
+    justify-content: center;
+}
